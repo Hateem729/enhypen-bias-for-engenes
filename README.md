@@ -14,7 +14,7 @@ This project allows fans to explore ENHYPEN members, choose their bias, enjoy im
 Add your image URL below:
 
 ```
-PASTE_OT7_IMAGE_URL_HERE
+https://github.com/Hateem729/enhypen-bias-for-engenes/blob/ac7b51d45e5b73c0d9164b2a787f43440758042f/ot7.jpg
 ```
 
 Example:

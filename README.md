@@ -42,7 +42,7 @@ enhypen-bias-for-engenes/
 ├── script.js
 │
 ├── images/
-│   ├── ot7.jpg
+│   ├── https://github.com/Hateem729/enhypen-bias-for-engenes/blob/5bbeab35ef105aee05212384cf56c56c938a9754/ot7.jpg
 │   ├── jungwon.jpg
 │   ├── heeseung.jpg
 │   ├── jay.jpg

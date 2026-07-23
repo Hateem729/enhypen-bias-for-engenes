@@ -1,48 +1,153 @@
-# enhypen-bias-for-engenes
+
 # ✨ ENHYPEN Bias Experience 🖤
 
-A fan-made interactive website created for ENGENEs to explore their ENHYPEN bias experience.
+Welcome to **ENHYPEN Bias Experience** — an interactive fan-made website created for ENGENEs.
 
-This project includes a beautiful ENHYPEN-themed design with member cards, images, music, and interactive buttons to create a fun fan experience.
-
----
-
-## 🌟 Features
-
-✨ ENHYPEN OT7 welcome section  
-✨ Member profile cards  
-✨ Bias selection interaction  
-✨ Background music support  
-✨ Responsive design for mobile and desktop  
-✨ Smooth hover animations  
-✨ Dark aesthetic ENHYPEN theme  
+This project allows fans to explore ENHYPEN members, choose their bias, enjoy images, and experience an aesthetic ENHYPEN-themed website.
 
 ---
 
-## 🖤 Members Included
+# 🖼️ ENHYPEN Gallery
 
-- 🐱 Jungwon
-- ⭐ Heeseung
-- 🔥 Jay
-- 🐶 Jake
-- ❄️ Sunghoon
-- 🌸 Sunoo
-- 🐆 Ni-Ki
+## OT7
+
+Add your image URL below:
+
+```
+PASTE_OT7_IMAGE_URL_HERE
+```
+
+Example:
+
+```markdown
+![ENHYPEN OT7](https://your-image-link.com/ot7.jpg)
+```
 
 ---
 
-## 📂 Project Structure
+## Jungwon 🐱
+
+Image URL:
+
+```
+PASTE_JUNGWON_IMAGE_URL_HERE
+```
+
+Example:
+
+```markdown
+![Jungwon](https://your-image-link.com/jungwon.jpg)
+```
+
+---
+
+## Heeseung ⭐
+
+Image URL:
+
+```
+PASTE_HEESEUNG_IMAGE_URL_HERE
+```
+
+Example:
+
+```markdown
+![Heeseung](https://your-image-link.com/heeseung.jpg)
+```
+
+---
+
+## Jay 🔥
+
+Image URL:
+
+```
+PASTE_JAY_IMAGE_URL_HERE
+```
+
+Example:
+
+```markdown
+![Jay](https://your-image-link.com/jay.jpg)
+```
+
+---
+
+## Jake 🐶
+
+Image URL:
+
+```
+PASTE_JAKE_IMAGE_URL_HERE
+```
+
+Example:
+
+```markdown
+![Jake](https://your-image-link.com/jake.jpg)
+```
+
+---
+
+## Sunghoon ❄️
+
+Image URL:
+
+```
+PASTE_SUNGHOON_IMAGE_URL_HERE
+```
+
+Example:
+
+```markdown
+![Sunghoon](https://your-image-link.com/sunghoon.jpg)
+```
+
+---
+
+## Sunoo 🌸
+
+Image URL:
+
+```
+PASTE_SUNOO_IMAGE_URL_HERE
+```
+
+Example:
+
+```markdown
+![Sunoo](https://your-image-link.com/sunoo.jpg)
+```
+
+---
+
+## Ni-Ki 🐆
+
+Image URL:
+
+```
+PASTE_NIKI_IMAGE_URL_HERE
+```
+
+Example:
+
+```markdown
+![Ni-Ki](https://your-image-link.com/niki.jpg)
+```
+
+---
+
+# 📂 Website Structure
 
 ```
 enhypen-bias-for-engenes/
 
-│
 ├── index.html
 ├── style.css
 ├── script.js
-│
+
 ├── images/
-│   ├── https://github.com/Hateem729/enhypen-bias-for-engenes/blob/5bbeab35ef105aee05212384cf56c56c938a9754/ot7.jpg
+│   ├── ot7.jpg
 │   ├── jungwon.jpg
 │   ├── heeseung.jpg
 │   ├── jay.jpg
@@ -50,62 +155,42 @@ enhypen-bias-for-engenes/
 │   ├── sunghoon.jpg
 │   ├── sunoo.jpg
 │   └── niki.jpg
-│
+
 └── music/
     └── background.mp3
 ```
 
 ---
 
-## 🚀 How To Use
+# ✨ Features
 
-1. Clone this repository:
-
-```
-git clone your-repository-link
-```
-
-2. Open the project folder.
-
-3. Open:
-
-```
-index.html
-```
-
-4. Enjoy your ENHYPEN Bias Experience! 🖤
+- 🖤 ENHYPEN aesthetic theme
+- 📸 Member image gallery
+- 🎵 Background music
+- 💫 Bias selection buttons
+- 🌙 Dark theme design
+- 📱 Responsive layout
 
 ---
 
-## 🛠️ Technologies Used
+# 🛠️ Built With
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ---
 
-## 🎨 Customization
+# 💖 For ENGENEs
 
-You can customize:
+Made with love for ENHYPEN fans worldwide.
 
-- Add your own ENHYPEN pictures in the `images` folder
-- Change the background music in the `music` folder
-- Edit colors and design in `style.css`
-- Add new interactions in `script.js`
+**ENHYPEN + ENGENE = One Team 🖤**
 
 ---
 
-## 💖 Made For
+# ⚠️ Disclaimer
 
-ENGENEs around the world who love and support ENHYPEN.
+This is a fan-made project created for learning and entertainment purposes.
 
-✨ Seven members, one team, endless memories. ✨
-
----
-
-## ⚠️ Disclaimer
-
-This is a personal fan-made project created for entertainment and learning purposes.
-
-All images, music, and ENHYPEN-related content belong to their respective owners.
+All ENHYPEN-related images and music belong to their respective owners.
